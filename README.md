@@ -23,8 +23,10 @@
    cd ode_solvers
 
 2. **Install the package:**
-    ```pip install -e .'''
+    ```bash
+    pip install -e .
     
 3. **Run the tests:**
     Verify the accuracy of the solvers
-    ```pytest'''
+    ```bash
+    pytest
